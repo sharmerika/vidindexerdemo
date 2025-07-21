@@ -8,7 +8,7 @@ This is a hands-on exploration of **Azure AI Video Indexer**—no code required.
 - Uploaded video to Azure Video Indexer Portal
 - Generated transcript, scene segmentation, and sentiment mapping
 - Detected quirky objects like “motorcycle” and “backpack”... in Hogwarts 
-- Exported insights in `.vtt`, `.json`, thumbnails, and a full ZIP bundle
+- Exported insights in `.srt`, `.json`, thumbnails, and a full ZIP bundle
 
 ## Repo Contents
 
@@ -34,11 +34,11 @@ Keyword: "person" — Confidence: 0.95
 
 The gameplay clip from *Hogwarts Legacy* used in this analysis is not publicly hosted due to privacy considerations.
 
-> If you're interested in viewing the original indexed video, feel free to reach out directly—I’d be happy to share the link upon request!
+> If you're interested in viewing the original indexed video, feel free to reach out directly. I’d be happy to share the link upon request!
 
 # Notes:
 - AI models sometimes mislabel complex or fantastical scenes.
-- "motorcycle" and "backpack" were detected in a Hogwarts Legacy clip
+- "motorcycle" and "backpack" were detected in a Hogwarts Legacy clip (hilarious, the imperfections of the Video Indexer lol!)
 
 ##  Reflections
 This no-code demo helped me understand how machine learning models behave in cinematic, creative contexts. It’s a reminder that AI can be powerful, fascinating, and sometimes delightfully imperfect.
