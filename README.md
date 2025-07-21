@@ -19,8 +19,6 @@ This is a hands-on exploration of **Azure AI Video Indexer**—no code required.
 | `thumbnails/`| Sample snapshots of detected scenes              |
 | `zip/`       | Full artifact ZIP file with all outputs          |
 
-## Scene Preview  
-![Magic Moment](thumbnails/HogLeg.jpg)
 
 # Azure Video Indexer Tags Summary
 # Source: analysis.json
