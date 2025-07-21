@@ -21,8 +21,22 @@ This is a hands-on exploration of **Azure AI Video Indexer**—no code required.
 
 ## Scene Preview  
 ![Magic Moment](thumbnails/HogLeg.jpg)
-##  Reflections
 
+# Azure Video Indexer Tags Summary
+# Source: analysis.json
+
+Keyword: "magic" — Confidence: 0.98
+Keyword: "outdoor" — Confidence: 0.91
+Keyword: "castle" — Confidence: 0.87
+Keyword: "motorcycle" — Confidence: 0.67
+Keyword: "backpack" — Confidence: 0.73
+Keyword: "person" — Confidence: 0.95
+
+# Notes:
+- AI models sometimes mislabel complex or fantastical scenes.
+- "motorcycle" and "backpack" were detected in a Hogwarts Legacy clip 🤷‍♀️
+
+##  Reflections
 This no-code demo helped me understand how machine learning models behave in cinematic, creative contexts. It’s a reminder that AI can be powerful, fascinating—and sometimes delightfully imperfect.
 
 > This demo didn’t require writing scripts, because it didn’t need to.  
